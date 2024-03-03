@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Basarı_notu>
+  <ogrenci Kimlik="4">
+    <TC_Kimlik>22</TC_Kimlik>
+    <Ad>fındık</Ad>
+    <Soyad>bebiş</Soyad>
+    <Adres>İhsaniye</Adres>
+    <Ders_Adi>koşu</Ders_Adi>
+    <Vize_Notu>87</Vize_Notu>
+    <Final_Notu>97</Final_Notu>
+    <Ortalama>94</Ortalama>
+  </ogrenci>
+  <ogrenci Kimlik="3">
+    <TC_Kimlik>354</TC_Kimlik>
+    <Ad>Meryem</Ad>
+    <Soyad>Öz</Soyad>
+    <Adres>İhsaniye</Adres>
+    <Ders_Adi>Fizik</Ders_Adi>
+    <Vize_Notu>98</Vize_Notu>
+    <Final_Notu>78</Final_Notu>
+    <Ortalama>84</Ortalama>
+  </ogrenci>
+</Basarı_notu>

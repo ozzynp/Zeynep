@@ -1,0 +1,10 @@
+C:\Users\0zeyn\OneDrive\Masaüstü\2.class\nesne tabanlı\DonemSonu\DonemSonu\bin\Debug\DonemSonu.exe
+C:\Users\0zeyn\OneDrive\Masaüstü\2.class\nesne tabanlı\DonemSonu\DonemSonu\bin\Debug\DonemSonu.pdb
+C:\Users\0zeyn\OneDrive\Masaüstü\2.class\nesne tabanlı\DonemSonu\DonemSonu\bin\Debug\deneme.dll
+C:\Users\0zeyn\OneDrive\Masaüstü\2.class\nesne tabanlı\DonemSonu\DonemSonu\bin\Debug\deneme.pdb
+C:\Users\0zeyn\OneDrive\Masaüstü\2.class\nesne tabanlı\DonemSonu\DonemSonu\obj\Debug\DonemSonu.csprojResolveAssemblyReference.cache
+C:\Users\0zeyn\OneDrive\Masaüstü\2.class\nesne tabanlı\DonemSonu\DonemSonu\obj\Debug\DonemSonu.Form1.resources
+C:\Users\0zeyn\OneDrive\Masaüstü\2.class\nesne tabanlı\DonemSonu\DonemSonu\obj\Debug\DonemSonu.Properties.Resources.resources
+C:\Users\0zeyn\OneDrive\Masaüstü\2.class\nesne tabanlı\DonemSonu\DonemSonu\obj\Debug\DonemSonu.csproj.GenerateResource.Cache
+C:\Users\0zeyn\OneDrive\Masaüstü\2.class\nesne tabanlı\DonemSonu\DonemSonu\obj\Debug\DonemSonu.exe
+C:\Users\0zeyn\OneDrive\Masaüstü\2.class\nesne tabanlı\DonemSonu\DonemSonu\obj\Debug\DonemSonu.pdb
